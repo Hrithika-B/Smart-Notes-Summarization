@@ -1,0 +1,5 @@
+pip install transformers torch accelerate  # or tensorflow if you prefer
+pip install streamlit # For the web interface
+#To run the AI
+streamlit run app.py on the terminal 
+Note: Directory of both app.py and summarizer.py should b same
